@@ -1,0 +1,25 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "a simple IoT Plataform - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsatsan/platziverse.git"
+  },
+  "keywords": [
+    "Haritzaona7"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsatsan/platziverse/issues"
+  },
+  "homepage": "https://github.com/tsatsan/platziverse#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
